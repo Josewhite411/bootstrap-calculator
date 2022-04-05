@@ -1,0 +1,54 @@
+.zero {
+	background-color: #767eaa;
+	padding: 0.5rem 0;
+	padding-right: 10px;
+	color: white;
+}
+
+.ac {
+	background-color: #f0f0f0;
+
+	
+
+}
+
+.plus-minus {
+	background-color: #f0f0f0;
+
+}
+
+.percentage {
+	background-color: #f0f0f0;
+	
+}
+
+.division {
+
+	background-color: #ff7762;
+	color: white;
+
+}
+
+.col-md-3 {
+
+	border: 1px solid grey;
+	border-left: none;
+}
+
+.col-md-6 {
+	background-color: #f0f0f0;
+	border: 1px solid grey;
+	border-left: none;
+}
+
+h2 {
+	padding: 20px;
+}
+
+.content {
+background-color: #f0f0f0;
+}
+
+.container {
+	margin-top: 20px;
+}
